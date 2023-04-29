@@ -1,0 +1,49 @@
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\CaiDat\MyLib\bin\Debug\MyLib.dll
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\CaiDat\MyLib\bin\Debug\MyLib.pdb
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\CaiDat\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\CaiDat\MyLib\obj\Debug\MyLib.dll
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\CaiDat\MyLib\obj\Debug\MyLib.pdb
+C:\Users\kingg\OneDrive\Desktop\CaiDat\MyLib\bin\Debug\MyLib.dll
+C:\Users\kingg\OneDrive\Desktop\CaiDat\MyLib\bin\Debug\MyLib.pdb
+C:\Users\kingg\OneDrive\Desktop\CaiDat\MyLib\obj\Debug\MyLib.dll
+C:\Users\kingg\OneDrive\Desktop\CaiDat\MyLib\obj\Debug\MyLib.pdb
+C:\Users\kingg\OneDrive\Desktop\CaiDat\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\Users\kingg\OneDrive\Desktop\CaiDat\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\kingg\OneDrive\Desktop\CaiDat\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\CaiDat\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\CaiDat\MyLib\bin\Debug\MyLib.dll
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\CaiDat\MyLib\bin\Debug\MyLib.pdb
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\CaiDat\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\CaiDat\MyLib\obj\Debug\MyLib.dll
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\CaiDat\MyLib\obj\Debug\MyLib.pdb
+C:\Users\kingg\OneDrive\Desktop\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\kingg\OneDrive\Desktop\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll
+C:\Users\kingg\OneDrive\Desktop\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.pdb
+C:\Users\kingg\OneDrive\Desktop\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.dll
+C:\Users\kingg\OneDrive\Desktop\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.pdb
+C:\Users\kingg\OneDrive\Desktop\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\Users\kingg\OneDrive\Desktop\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.pdb
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.dll
+C:\Users\dohue\OneDrive\Desktop\TH HQT Test\FileChinh\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.pdb
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\FileChinh\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll.config
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\FileChinh\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\FileChinh\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.pdb
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\FileChinh\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\FileChinh\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.dll
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\FileChinh\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.pdb
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\DoHueMan_NguyenMinhHoa_TranDucHuy\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll.config
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\DoHueMan_NguyenMinhHoa_TranDucHuy\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\DoHueMan_NguyenMinhHoa_TranDucHuy\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.pdb
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\DoHueMan_NguyenMinhHoa_TranDucHuy\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\DoHueMan_NguyenMinhHoa_TranDucHuy\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.dll
+D:\BÀI TẬP\BÀI TIỂU LUẬN\TH HQT\DoAn\DOAN_THHQT\DoHueMan_NguyenMinhHoa_TranDucHuy\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.pdb
+C:\Users\kingg\OneDrive\Desktop\Kì 6\Đồ Án Quản Lý Cửa Hàng Tiện Lợi\Video Thuyết Trình\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\kingg\OneDrive\Desktop\Kì 6\Đồ Án Quản Lý Cửa Hàng Tiện Lợi\Video Thuyết Trình\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.dll
+C:\Users\kingg\OneDrive\Desktop\Kì 6\Đồ Án Quản Lý Cửa Hàng Tiện Lợi\Video Thuyết Trình\DoAn_HQT\CaiDat\MyLib\bin\Debug\MyLib.pdb
+C:\Users\kingg\OneDrive\Desktop\Kì 6\Đồ Án Quản Lý Cửa Hàng Tiện Lợi\Video Thuyết Trình\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\kingg\OneDrive\Desktop\Kì 6\Đồ Án Quản Lý Cửa Hàng Tiện Lợi\Video Thuyết Trình\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.dll
+C:\Users\kingg\OneDrive\Desktop\Kì 6\Đồ Án Quản Lý Cửa Hàng Tiện Lợi\Video Thuyết Trình\DoAn_HQT\CaiDat\MyLib\obj\Debug\MyLib.pdb

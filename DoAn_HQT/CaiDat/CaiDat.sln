@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaiDat", "CaiDat\CaiDat.csproj", "{9C7BD97F-A126-4F75-9A7B-C5D4B2D1EB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{DC12C2A2-550D-44B9-B82E-4250F35D3FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7BD97F-A126-4F75-9A7B-C5D4B2D1EB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7BD97F-A126-4F75-9A7B-C5D4B2D1EB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7BD97F-A126-4F75-9A7B-C5D4B2D1EB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7BD97F-A126-4F75-9A7B-C5D4B2D1EB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC12C2A2-550D-44B9-B82E-4250F35D3FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC12C2A2-550D-44B9-B82E-4250F35D3FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC12C2A2-550D-44B9-B82E-4250F35D3FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC12C2A2-550D-44B9-B82E-4250F35D3FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B74AEF53-A9D0-458C-87CD-E539C687A190}
+	EndGlobalSection
+EndGlobal
